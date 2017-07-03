@@ -18,7 +18,7 @@ public class PositionUtil {
     private static final int POSITION_SERVER_PORT = 8000;
     private static final int SOCKET_OUTPUT_SIZE = 8 * 1024 * 1024;  // Bytes
     private static final int SOCKET_INPUT_SIZE = 8;  // Bytes
-    private static final int SOCKET_CONN_TIMEOUT = 3000;  // ms
+    private static final int SOCKET_CONN_TIMEOUT = 10000;  // ms
     private static Random random = new Random();
 
     /**
