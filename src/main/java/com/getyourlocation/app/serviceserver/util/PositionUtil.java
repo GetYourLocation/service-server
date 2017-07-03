@@ -104,6 +104,7 @@ public class PositionUtil {
             if (socket != null) {
                 try {
                     socket.close();
+                    Thread.sleep(500);
                 } catch (Exception e) {
                     // Do nothing
                 }
