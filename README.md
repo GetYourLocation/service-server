@@ -1,4 +1,4 @@
-# ServiceServer [![Build Status](https://travis-ci.org/GetYourLocation/ServiceServer.svg?branch=master)](https://travis-ci.org/GetYourLocation/ServiceServer)
+# ServiceServer [![Build Status](https://travis-ci.org/GetYourLocation/service-server.svg?branch=master)](https://travis-ci.org/GetYourLocation/service-server)
 
 Server that provides RESTful services of GetYourLocation system. See the [APIs](https://github.com/GetYourLocation/Documentation/blob/master/doc/api.md) available.
 
